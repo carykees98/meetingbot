@@ -18,9 +18,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MyBot.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <ClCompile Include="MyBot.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dependencies\include\dpp-10.0\dpp\auditlog.h">
